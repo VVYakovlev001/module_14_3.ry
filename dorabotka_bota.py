@@ -10,7 +10,7 @@ from fail import *
 
 
 
-api = "7345376595:AAHyZWBH1R5sP5J_lA4vACj1aJTG6dny2wI"
+api = ""
 bot = Bot(token=api)
 dp = Dispatcher(bot, storage=MemoryStorage())
 
